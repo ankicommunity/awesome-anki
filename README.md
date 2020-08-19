@@ -116,10 +116,14 @@ A curated list of awesome [Anki](https://github.com/dae/anki) add-ons, decks and
 ### Programming libraries
 
 * [patarapolw/AnkiTools ![GitHub stars](https://img.shields.io/github/stars/patarapolw/AnkiTools.svg)](https://github.com/patarapolw/AnkiTools) - Python library for reading `*.apkg` and `*.anki2` files.
+
 * [kerrickstaley/genanki ![GitHub stars](https://img.shields.io/github/stars/kerrickstaley/genanki.svg)](https://github.com/kerrickstaley/genanki) - Python library for generating Anki decks.
+
 * [Archenoth/clj-anki ![GitHub stars](https://img.shields.io/github/stars/Archenoth/clj-anki.svg)](https://github.com/Archenoth/clj-anki) - Clojure Anki-file interaction library to read and write `*.anki2` and `*.apkg` files.
+
 * [flimzy/anki ![GitHub stars](https://img.shields.io/github/stars/flimzy/anki.svg)](https://github.com/flimzy/anki) - Go library to read Anki `*.apkg` files.
-* [klieret/AnkiPandas ![GitHub stars](https://img.shields.io/github/stars/klieret/AnkiPandas.svg)](https://github.com/klieret/AnkiPandas) - An interface to read, analyze and manipulate your Anki collection with python's ``pandas``  
+
+* [klieret/AnkiPandas ![GitHub stars](https://img.shields.io/github/stars/klieret/AnkiPandas.svg)](https://github.com/klieret/AnkiPandas) - An interface to read, analyze and manipulate your Anki collection with python's ``pandas``
 
 ## Themes
 
