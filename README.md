@@ -201,3 +201,4 @@ A curated list of awesome [Anki](https://github.com/dae/anki) add-ons, decks and
 
 * [MedAnkiGen](https://medankigen.com) - MedAnkiGen creates high-quality medical flashcards from PDF, presentations, and lecture transcripts, helping medical students optimize their study process.
 
+* [StudyDaily](https://www.studydaily.app/en) - A flashcard app for iPhone, iPad, Mac, Android, Windows and the web that imports Anki `.apkg` and `.colpkg` files with their scheduling, FSRS memory and review history, and exports back to `.apkg`. Includes a [published round-trip test](https://www.studydaily.app/en/guides/anki-to-studydaily-migration-test) with the Anki deck and comparison scripts. (_Not Open Source_)
